@@ -38,7 +38,7 @@
 * [AndroidChangeSkin 无需重启换肤](https://github.com/hongyangAndroid/AndroidChangeSkin)
 * ......
 
-感谢github开源精神。
+解决冲突的地方
 
 ## 四、一些零散的知识点 ##
 
