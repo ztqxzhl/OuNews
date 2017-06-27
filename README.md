@@ -38,8 +38,6 @@
 * [AndroidChangeSkin 无需重启换肤](https://github.com/hongyangAndroid/AndroidChangeSkin)
 * ......
 
-感谢各位大神无私的开源精神。
-
 ## 四、一些零散的知识点 ##
 
 MVP模式代码学习<br>https://github.com/antoniolg/androidmvp</br>
